@@ -1,6 +1,6 @@
 # Section Container Block Plugin
 
-A simple Gutenberg Block plugin for WordPress that allows accepts inner blocks. Useful for managing layouts where you need to wrap everything in a container.
+A simple Gutenberg Block plugin for WordPress that accepts inner blocks. Useful for managing layouts where you need to wrap everything in a container.
 
 
 ## Built on top of Create Guten Block
